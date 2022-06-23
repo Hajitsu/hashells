@@ -13,6 +13,7 @@ then install `wget`:
 
     brew install wget
 <hr />
+
 **VPN Script**
 
 To use [this](https://github.com/Hajitsu/hashells/blob/main/shells/vpn.sh) shell just go to file path and run `sh vpn.sh`. After that, you can connect or disconnect the selected VPN by `vpnstart` or `vpnstop`. To show the list of your VPNs just run `vpnutil list`.
